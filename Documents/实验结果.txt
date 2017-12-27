@@ -1,0 +1,50 @@
+项目需要时间：
+4:40开始
+5:15开始迭代
+5:20结束
+
+k=100
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:RMSE is 0.7325004116139475
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:MAE is 0.5488972902549324
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:MSE is 0.5365568530146025
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:MPE is 0.9858120927163243
+
+
+7:00开始
+7:41结束
+k=50
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:MSE is 0.5392863268995568
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:RMSE is 0.7343611692481818
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:MAE is 0.5488438332419562
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:MPE is 0.9859723524854218
+
+k=150
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:RMSE is 0.7391353173262718
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:MAE is 0.5516871218578034
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:MSE is 0.5463210173190085
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:MPE is 0.9864005219589773
+
+k=150改进数据之后
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:RMSE is 0.7362330200592205
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:MAE is 0.5501747181683738
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:MSE is 0.5420390598255207
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:MPE is 0.9858086616099829
+
+
+
+k=150
+全部改进之后
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:RMSE is 0.739773153007254
+
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:MPE is 0.9858761667957445
+
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:MSE is 0.5472643179102941
+
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:MAE is 0.5519953859611074
+
+uirtSe12LoAll
+k=150
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:MSE is 0.5416538682420922
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:MPE is 0.9864102198406716
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:MAE is 0.548348100308463
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:RMSE is 0.7359713773252953
